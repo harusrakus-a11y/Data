@@ -1,0 +1,2 @@
+# Senarai domain geo (kancil-scan). Satu domain satu baris.
+pizzahut.com.my
